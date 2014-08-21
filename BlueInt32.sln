@@ -12,35 +12,21 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		HomeDebug|Any CPU = HomeDebug|Any CPU
 		Release|Any CPU = Release|Any CPU
-		WorkDebug|Any CPU = WorkDebug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C3F38F6F-41EA-4815-A117-F959F46F3282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C3F38F6F-41EA-4815-A117-F959F46F3282}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3F38F6F-41EA-4815-A117-F959F46F3282}.HomeDebug|Any CPU.ActiveCfg = HomeDebug|Any CPU
-		{C3F38F6F-41EA-4815-A117-F959F46F3282}.HomeDebug|Any CPU.Build.0 = HomeDebug|Any CPU
 		{C3F38F6F-41EA-4815-A117-F959F46F3282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3F38F6F-41EA-4815-A117-F959F46F3282}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3F38F6F-41EA-4815-A117-F959F46F3282}.WorkDebug|Any CPU.ActiveCfg = WorkDebug|Any CPU
-		{C3F38F6F-41EA-4815-A117-F959F46F3282}.WorkDebug|Any CPU.Build.0 = WorkDebug|Any CPU
 		{F2B4CE65-9BF7-41B3-9A1B-2CB75C9F5B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F2B4CE65-9BF7-41B3-9A1B-2CB75C9F5B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F2B4CE65-9BF7-41B3-9A1B-2CB75C9F5B67}.HomeDebug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2B4CE65-9BF7-41B3-9A1B-2CB75C9F5B67}.HomeDebug|Any CPU.Build.0 = Debug|Any CPU
 		{F2B4CE65-9BF7-41B3-9A1B-2CB75C9F5B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2B4CE65-9BF7-41B3-9A1B-2CB75C9F5B67}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F2B4CE65-9BF7-41B3-9A1B-2CB75C9F5B67}.WorkDebug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2B4CE65-9BF7-41B3-9A1B-2CB75C9F5B67}.WorkDebug|Any CPU.Build.0 = Debug|Any CPU
 		{6A760B7B-E7C4-4650-A976-306D24F2A06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6A760B7B-E7C4-4650-A976-306D24F2A06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A760B7B-E7C4-4650-A976-306D24F2A06E}.HomeDebug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A760B7B-E7C4-4650-A976-306D24F2A06E}.HomeDebug|Any CPU.Build.0 = Debug|Any CPU
 		{6A760B7B-E7C4-4650-A976-306D24F2A06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A760B7B-E7C4-4650-A976-306D24F2A06E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6A760B7B-E7C4-4650-A976-306D24F2A06E}.WorkDebug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A760B7B-E7C4-4650-A976-306D24F2A06E}.WorkDebug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
